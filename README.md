@@ -4,11 +4,11 @@
 
 **Integrantes del equipo**
 
-| # | Alumno                           | Clave única |
+| # | Alumno                            | Clave única |
 |---|-----------------------------------|-------------|
-| 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Carlos Tabares Juárez Bernal        | 141507      |
-
+| 1 | Angel Rafael Ortega Ramírez       | 123972      |
+| 2 | Carlos Tabares Juárez Bernal      | 141507      |
+| 3 | Mario Rodríguez                   | 164471      |    
 ## Objetivo:
 Poner en práctica las técnicas estudiadas durante el curso, combinando tantas como sean necesarias.
 
