@@ -105,6 +105,9 @@ En un párrafo, de 6 a 10 líneas, mencionar el problema, indicar la solución p
   - Justifiquen las decisiones de su diseño.
   - Apoyense de diagramas, tablas, etc.
   - Pueden mencionar, algunas otras propuestas evaluadas que no hayan sido tan exitosas como la final, pero sólo a manera de mención. No lo cuenten como historia progresiva.
+  
+############################################################
+**Esto es el segundo Milestone**
 4. Experimentos y resultados
   - Presenten tablas, curvas, ejemplos, etc.
   - Comparen valores de parámetros y variantes de decisiones que hayan tomado.
