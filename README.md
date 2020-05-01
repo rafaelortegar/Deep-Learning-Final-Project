@@ -86,15 +86,19 @@ El reporte deberá ser enviado por correo electrónico, en formato PDF. Deberá 
 **Resumen**
 
 En un párrafo, de 6 a 10 líneas, mencionar el problema, indicar la solución propuesta, y hacer un comentario breve de la calidad de los resultados que se obtuvieron con su propuesta.
-
+########################################################       ################################################
 1. Introducción (expandir el resumen)
-  - Mencionar en qué consiste el problema.
-  - Qué tipo de soluciones existen actualmente. Qué nivel de calidad obtiene, cómo lo obtienen, cuáles son sus limitaciones.
-  - Qué proponen ustedes y por qué. Qué nivel de calidad obtienen ustedes.
-  - Organización del resto del documento.
+  - Mencionar en qué consiste el problema. **Lo empieza Rafa**
+  - Qué tipo de soluciones existen actualmente. Qué nivel de calidad obtiene, cómo lo obtienen, cuáles son sus limitaciones.**Lo empieza Carlos**
+  - Qué proponen ustedes y por qué. Qué nivel de calidad obtienen ustedes.**Al final, cuando se tenga la solución**
+  - Organización del resto del documento.**Lo pone Rafa al final, cuando se tenga la solución final**
 2. Descripción detallada del problema
-  - Incluir detalles de la base de datos.
-  - Qué retos encuentran en cuanto a los datos, diseño de la solución, técnicos, de implementación.
+  - Incluir detalles de la base de datos.**Lo empieza Rafa**
+  - Qué retos encuentran en cuanto a los datos, diseño de la solución, técnicos, de implementación.**Mario inicia el EDA, Rafa complementa los detalles de la base y este punto con los outputs del EDA**
+
+###############################################################    ###################################################
+**Primer Milestone: Lunes 4 de Mayo**
+  
 3. Descripción detallada de la solución presentada
   - Describan su mejor método, ese será el que proponen.
   - La descripción puede incluir intuiciones, así como motivaciones y detalles técnicos.
