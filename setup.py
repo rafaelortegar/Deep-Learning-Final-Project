@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 import re
 from pathlib import Path
-from setuptools import find_packages, setup
+from setuptools import find_packages, setup 
+import pandas as pd 
 
 
 ROOT_PATH = Path(__file__).parent
