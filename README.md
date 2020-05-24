@@ -40,7 +40,7 @@ Usteden deberán diseñar la forma de desenvolver las asignaciones para generar 
 
 _Organización de los datos:_ dividan los datos en 80% para entrenar y 20% para prueba final (test). Concrétamente, por cada imágen, seleccionen 4 de sus correspondientes textos para entrenar, y dejen uno para probar. La división para validar la dejo a su elección, pero debe haber alguna.
 
-_Resolución:_ Las imágenes tienen tamaños distintos, ustedes deberán idea alguna manera para dárselas a la red. Más abajo dejo unas notas que, en combinación con el notebook, puede ayudarles. Sugiero que las reescalen a 64x64 pixeles (llamémoslo resolución [stage I]( https://medium.com/@mrgarg.rajat/implementing-stackgan-using-keras-a0a1b381125e)) para que el procesamiento no sea tan pesado, a costa de perder calidad en la resolución de salida. Llamemos stage II = 256x256 pixeles.
+_Resolución:_ Las imágenes tienen tamaños distintos, ustedes deberán idear alguna manera para dárselas a la red. Más abajo dejo unas notas que, en combinación con el notebook, puede ayudarles. Sugiero que las reescalen a 64x64 pixeles (llamémoslo resolución [stage I]( https://medium.com/@mrgarg.rajat/implementing-stackgan-using-keras-a0a1b381125e)) para que el procesamiento no sea tan pesado, a costa de perder calidad en la resolución de salida. Llamemos stage II = 256x256 pixeles.
 
 
 ## Evaluación:
