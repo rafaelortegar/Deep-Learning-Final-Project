@@ -26,7 +26,7 @@ setup(
     description='Final Project for Deep Learning',
     long_description=README_PATH.read_text(),
     long_description_content_type="text/markdown",
-    author='Rafael Ortega Ramírez & Carlos Tabares Juárez Bernal',
+    author='Rafael Ortega Ramírez, Carlos Tabares Juárez Bernal, Mario Rodrí',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     include_package_data=True,
