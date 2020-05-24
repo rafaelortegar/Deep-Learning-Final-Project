@@ -139,3 +139,6 @@ dmypy.json
 .doc
 .xlsx
 *credentials
+
+# Visual studio
+*.vscode
